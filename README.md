@@ -1,1 +1,1 @@
-# Examples of auto-tests for API
+auto-tests for API
